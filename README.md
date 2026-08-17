@@ -1,10 +1,10 @@
 <div align="center">
 
-# 👋 Hi, I'm DFERTR345
+# 👋 Hi, I'm Koharu81
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Discord+Bot+Developer;Backend+%2F+Automation;Game+Development;Python+%7C+Node.js)](https://git.io/typing-svg)
 
-![](https://komarev.com/ghpvc/?username=DFERTR345&color=blueviolet&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=Koharu81&color=blueviolet&style=for-the-badge)
 ## 🚀 About Me
 
 - Discord Bot Developer
@@ -17,7 +17,7 @@
 
 ## 📊 Stats
 
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=DFERTR345)](https://github.com/stats-organization/github-stats-extended)
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=Koharu81)](https://github.com/stats-organization/github-stats-extended)
 
 ## 📫 Contact
 
@@ -27,6 +27,6 @@
 
 ## 💬 etc
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DFERTR345&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Koharu81&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
