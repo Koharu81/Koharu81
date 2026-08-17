@@ -17,7 +17,7 @@
 
 ## 📊 Stats
 
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=DFERTR345)](https://github.com/stats-organization/github-stats-extended) ![Top Langs]([https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DFERTR345&layout=compact&theme=tokyonight](https://github-stats-extended.vercel.app/api?username=octocat&theme=DFERTR345))
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=DFERTR345)](https://github.com/stats-organization/github-stats-extended)
 
 ## 📫 Contact
 
