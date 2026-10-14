@@ -21,7 +21,7 @@
 
 ## 📫 Contact
 
-[![Gmail](https://img.shields.io/badge/Gmail-codingexpertleon%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:codingexpertleon@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-admin%40koharu.live-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:admin@koharu.live)
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/1339604814631534667?theme=dark&bg=0d1117&animated=true&hideDiscrim=true&borderRadius=30px)](https://discord.com/users/1339604814631534667)
 
