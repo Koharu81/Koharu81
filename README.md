@@ -25,8 +25,4 @@
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/1339604814631534667?theme=dark&bg=0d1117&animated=true&hideDiscrim=true&borderRadius=30px)](https://discord.com/users/1339604814631534667)
 
-## 💬 etc
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?Koharu81=Ashutosh00710)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 </div>
